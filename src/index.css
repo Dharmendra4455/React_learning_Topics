@@ -1,0 +1,38 @@
+.image{
+    width: 190px;
+    height: 180px;
+    border-radius: 50%;
+    }
+h2{
+    margin: 0px;
+    font-weight: bold;
+    font-size: 27px;
+}
+.body{
+   margin-left: 15px;
+   margin-bottom: 20px;
+    padding-left: 10px;
+    background-color: hsla(180, 100%, 45%, 0.993);
+    border: 2px solid rgb(100, 97, 97);
+    width: 220px;
+    box-shadow: rgb(85, 81, 81) 5px 5px 5px;
+    display: inline-block;
+}
+/*Student*/
+.student{
+    margin: 5px;
+    display: inline-block;
+    width: 210px;
+    border: 3px solid rgba(95, 82, 82, 0.884);
+    border-radius: 5px;
+    padding: 10px;
+    background-color: hsl(0, 0%, 93%);
+    box-shadow: hsl(40, 6%, 28%) 5px 4px 5px;
+}
+.student div{
+    font-size: 18px;
+    font-weight: bolder;
+}
+.student:hover{
+    background-color: hsl(0, 0%, 100%);
+}
