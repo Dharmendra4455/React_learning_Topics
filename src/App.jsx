@@ -11,6 +11,7 @@ import Object from './Object'
 import Arrayhandler from './Arraayhandler'
 import Todolist from './assets/Todolist/Todolist'
 import Objectlist from './Objectlist'
+import { Comp1 } from './Context/Comp1'
 
 function App() {
    const fruits=[
@@ -64,6 +65,10 @@ function App() {
      <Objectlist/>  
      <hr/>   
      <Todolist/>
+     <hr />
+     <h2>UseContext Hook</h2>
+
+     <Comp1/>
      </>
 
   )
