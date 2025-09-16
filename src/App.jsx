@@ -67,8 +67,8 @@ function App() {
      <Todolist/>
      <hr />
      <h2>UseContext Hook</h2>
-
      <Comp1/>
+     <h3>Git Implementation Succssfully</h3>
      </>
 
   )
